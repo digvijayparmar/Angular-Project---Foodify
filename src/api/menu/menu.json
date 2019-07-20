@@ -1,0 +1,28 @@
+[
+    {
+      "menuItemName": "Summer Corn Chowder",
+      "menuItemCode": "SO-101",
+      "Category": "Soups",
+      "releaseDate": "March 19, 2019",
+      "description": "Roasted corn and skin-on red potatoes simmered with sweet cream, poblano peppers and cilantro.",
+      "price": 6.99,
+      "isActive": "Y",
+      "isOnPromotion": "N",     
+      "itemType": "Veg",
+      "itemCaloriesInfo": "250 Cal",
+      "menuItemImageUrl": "https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "menuItemName": "Spicy Thai Salad",
+        "menuItemCode": "SL-201",
+        "Category": "Salads",
+        "releaseDate": "March 19, 2019",
+        "description": "hicken raised without antibiotics, romaine, roasted cashew pieces, fire-roasted edamame, red pepper and carrot blend, cilantro and wonton strips tossed with low-fat Thai chili vinaigrette and drizzled with peanut sauce.",
+        "price": 7.99,
+        "isActive": "Y",
+        "isOnPromotion": "Y",     
+        "itemType": "Non-Veg",
+        "itemCaloriesInfo": "350 Cal",
+        "menuItemImageUrl": "https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+      }
+]
