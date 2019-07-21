@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.
 
-# Setup
+## Setup
 
 Run npm install command to download all the dependent node modules.
 
