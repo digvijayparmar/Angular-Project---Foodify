@@ -5,6 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Setup
 Run npm install command to download the node dependencies
 
+## Run Project
+Run npm start. Project should startup without any compilation errors. Navigate to `http://localhost:4200/` to see the application on the browser
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
