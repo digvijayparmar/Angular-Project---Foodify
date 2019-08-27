@@ -1,0 +1,82 @@
+[
+    {
+      "productId": 101,
+      "productName": "Summer Corn Chowder",
+      "productCode": "Soups",
+      "releaseDate": "March 19, 2016",
+      "description": "Roasted corn and skin-on red potatoes simmered with sweet cream, poblano peppers and cilantro.",
+      "price": 6.99,
+      "starRating": 3.2,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+      "productId": 123,
+      "productName": "Ten Vegetable Soup",
+      "productCode": "Soups",
+      "releaseDate": "March 18, 2017",
+      "description": "Tomato, red and yellow peppers, onions, corn, carrots, Swiss chard, poblano peppers and garlic in seasoned vegetable stock with chickpeas, sprouted brown rice and red fife, black chia, spelt, wheatberries and dried Aleppo chili. Topped with a lemon wheel. ",
+      "price": 7.99,
+      "starRating": 4.2,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    },
+    {
+      "productId": 111,
+      "productName": "Chicken Noodle Soup",
+      "productCode": "Soups",
+      "releaseDate": "May 21, 2016",
+      "description": "Delicious vegetables and tender all-white meat chicken breast simmered in a delicately seasoned chicken broth with traditional egg noodles",
+      "price": 8.99,
+      "starRating": 4.8,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+    },
+    {
+      "productId": 342,
+      "productName": "Spicy Thai Salad ",
+      "productCode": "Salads",
+      "releaseDate": "May 15, 2016",
+      "description": "Chicken raised without antibiotics, romaine, roasted cashew pieces, fire-roasted edamame, red pepper and carrot blend, cilantro and wonton strips tossed with low-fat Thai chili vinaigrette and drizzled with peanut sauce",
+      "price": 10.99,
+      "starRating": 3.7,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+    },
+    {
+      "productId": 310,
+      "productName": "Caesar Salad",
+      "productCode": "Salads",
+      "releaseDate": "October 15, 2015",
+      "description": "Romaine, parmesan and homemade black pepper focaccia croutons tossed with Caesar dressing",
+      "price": 8.99,
+      "starRating": 4.6,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    },
+    {
+      "productId": 198,
+      "productName": "Greek Salad",
+      "productCode": "Salads",
+      "releaseDate": "March 19, 2016",
+      "description": "Romaine, vine-ripened tomatoes, feta, red onions and kalamata olives with salt and pepper tossed with Greek dressing.",
+      "price": 9.99,
+      "starRating": 3.2,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+      "productId": 654,
+      "productName": "Turkey Sandwich",
+      "productCode": "Sandwichs",
+      "releaseDate": "March 18, 2016",
+      "description": "Oven-roasted turkey breast, emerald greens, vine-ripened tomatoes and red onions with salt and pepper on Whole Grain with pure mayo and spicy brown mustard. Available in whole and half",
+      "price": 7.99,
+      "starRating": 4.2,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    },
+    {
+      "productId": 5,
+      "productName": "Veggie Sandwich",
+      "productCode": "Sandwich",
+      "releaseDate": "May 21, 2016",
+      "description": "Zesty sweet Peppadew™ piquant peppers, feta cheese, cucumbers, emerald greens, vine-ripened tomatoes, red onions and cilantro-jalapeño hummus with salt and pepper on thin-sliced Tomato Basil",
+      "price": 8.99,
+      "starRating": 4.8,
+      "imageUrl": "https://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+    }
+]
